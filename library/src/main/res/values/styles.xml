@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="Widget_ExpandTextView">
+        <!--<item name="foregroundDrawable">@drawable/img_percentage_bar_foreground_default</item>-->
+    </style>
+</resources>

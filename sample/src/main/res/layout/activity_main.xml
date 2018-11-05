@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.v7.widget.LinearLayoutCompat
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="8dp"
+    app:divider="@drawable/divider_padding"
+    app:showDividers="middle"
+    tools:context=".MainActivity">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="以形表音的图画文字经过不断的发展，从古埃及文、罗马文字、及拉丁文字则发展到后期都成为语音符号，即外文的字母，不同的外文字母合并成一个外国文字。"/>
+
+    <com.fanhl.expandtextview.ExpandTextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="以形表音的图画文字经过不断的发展，从古埃及文、罗马文字、及拉丁文字则发展到后期都成为语音符号，即外文的字母，不同的外文字母合并成一个外国文字。"/>
+
+</android.support.v7.widget.LinearLayoutCompat>
